@@ -1,0 +1,11 @@
+C:\development\CloseCaptioning\ExtractCaptions\ExtractCaptions\bin\Release\ExtractCaptions.exe.config
+C:\development\CloseCaptioning\ExtractCaptions\ExtractCaptions\bin\Release\ExtractCaptions.exe
+C:\development\CloseCaptioning\ExtractCaptions\ExtractCaptions\bin\Release\ExtractCaptions.pdb
+C:\development\CloseCaptioning\ExtractCaptions\ExtractCaptions\bin\Release\Newtonsoft.Json.dll
+C:\development\CloseCaptioning\ExtractCaptions\ExtractCaptions\bin\Release\Newtonsoft.Json.xml
+C:\development\CloseCaptioning\ExtractCaptions\ExtractCaptions\obj\Release\ExtractCaptions.exe
+C:\development\CloseCaptioning\ExtractCaptions\ExtractCaptions\obj\Release\ExtractCaptions.pdb
+C:\development\CloseCaptioning\ExtractCaptions\ExtractCaptions\obj\Release\ExtractCaptions.csprojResolveAssemblyReference.cache
+C:\development\ClosedCaptioning\ExtractCaptions\ExtractCaptions\bin\Release\ExtractCaptions.exe.config
+C:\development\ClosedCaptioning\ExtractCaptions\ExtractCaptions\obj\Release\ExtractCaptions.exe
+C:\development\ClosedCaptioning\ExtractCaptions\ExtractCaptions\obj\Release\ExtractCaptions.pdb
